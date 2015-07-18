@@ -7,7 +7,11 @@ Cuis-OpenGL is based on my original OpenGL port in Cuis-Ports but is being rebui
 
 This repository is currently a placeholder containing the last committed files from the Cuis-Ports version of the OpenGL package.
 
-# Release notes from latest version
+# Release notes from latest 3DTransform release
+
+3DTransform - Based on 3DTransform-pbm.19.mcz
+
+# Release notes from latest OpenGL release
 
 OpenGL - Originally based on OpenGL-Core-jrd.6.mcz and have merged in some of the changes from OpenGL-Core-bf.17.mcz.
 
