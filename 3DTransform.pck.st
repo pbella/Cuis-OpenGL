@@ -1,6 +1,7 @@
 'From Cuis 4.2 of 25 July 2013 [latest update: #2400] on 6 July 2015 at 1:38:12.630297 pm'!
 'Description Based on 3DTransform-pbm.19.mcz'!
 !provides: '3DTransform' 1 1!
+!requires: 'FFI' 1 8 nil!
 !classDefinition: #CatmullRom category: #'3DTransform-Vectors'!
 Object subclass: #CatmullRom
 	instanceVariableNames: 'p1 p2 p3 p4'
